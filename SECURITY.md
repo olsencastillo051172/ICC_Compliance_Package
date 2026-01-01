@@ -12,7 +12,7 @@ This document defines the security posture and vulnerability disclosure process 
 If you discover a security vulnerability in **IA Compliance Core (ICC)**, we request responsible disclosure.
 
 - **Do not** open a public GitHub issue.
-- Contact the security team directly at: **security@olsen-intelligence.com**
+- Contact the security team directly at: **olsencastillo@io-io.net**
 - Provide a clear description of the issue, steps to reproduce, and any relevant logs or artifacts.
 - We encourage **encrypted communication (PGP/GPG)** for sensitive reports. Public keys are available upon request.
 

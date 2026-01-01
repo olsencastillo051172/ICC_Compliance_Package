@@ -2,7 +2,7 @@
 **Enterprise AI Compliance-as-a-Service**  
 Cloud-native • Multi-tenant • Multi-cloud • White-label ready  
 
-**Commercial descriptor:** AI Compliance Hub  
+**Commercial descriptor:** AI Compliance Core (ICC)  
 **Proprietary seal:** Governance Evidence Seal™ (Blockchain-anchored evidence attestation)
 
 ---
@@ -177,7 +177,7 @@ ICC does **not** claim regulator authority or official certification.
 ## 📞 Contact & Private Offers
 For enterprise onboarding, private marketplace offers, or white-label partnerships:
 
-**Email:** contact@olsen-intelligence.com  
+**Email:** olsencastillo@io-io.net
 **Publisher:** (IO) Olsen Intelligence
 
 ---

@@ -18,16 +18,16 @@ Cloud-native • Multi-tenant • Audit-ready
 - AI adoption is accelerating globally  
 - Regulators demand governance and compliance evidence  
 - Enterprises lack tools to generate auditable proof  
-- Pain: blocked contracts, delayed exports, failed audits
+- Result: blocked contracts, delayed exports, failed audits  
 
 ---
 
 ## Slide 3 – Solution
-ICC provides **compliance enablement workflows**:  
+ICC provides **compliance enablement workflows**:
 - AI system inventory  
 - Risk classification  
 - Incident management  
-- Immutable audit evidence
+- Reproducible audit evidence  
 
 ---
 
@@ -35,15 +35,15 @@ ICC provides **compliance enablement workflows**:
 - Compliance enablement SaaS  
 - Evidence generation hub  
 - Governance workflow engine  
-- Marketplace-ready deployment
+- Marketplace-ready deployment  
 
 ---
 
 ## Slide 5 – What ICC Is Not
 - Not legal advice  
-- Not certification authority  
+- Not a certification authority  
 - Not a regulator replacement  
-- Compliance decisions remain customer-owned
+- Compliance decisions remain customer-owned  
 
 ---
 
@@ -52,7 +52,7 @@ ICC provides **compliance enablement workflows**:
 - Healthcare & Pharma  
 - Telecommunications & BPO  
 - Public sector agencies  
-- Auditors & GRC consultancies
+- Auditors & GRC consultancies  
 
 ---
 
@@ -60,7 +60,7 @@ ICC provides **compliance enablement workflows**:
 - Audit readiness by design  
 - Marketplace-ready deployability (GKE Autopilot)  
 - Enterprise-grade security posture  
-- White-label readiness for partners
+- White-label readiness for partners  
 
 ---
 
@@ -69,7 +69,7 @@ ICC provides **compliance enablement workflows**:
 - Risk classification & control mapping  
 - Incident workflows  
 - Exportable auditor-ready reports  
-- Immutable evidence registry
+- Immutable evidence registry  
 
 ---
 
@@ -78,57 +78,58 @@ ICC provides **compliance enablement workflows**:
 - Orchestration: Kubernetes  
 - IaC: Terraform + Helm  
 - Data: PostgreSQL  
-- Cache/queues: Redis  
-- Multi-cloud: GKE, EKS, AKS
+- Cache / Queues: Redis  
+- Multi-cloud: GKE, EKS, AKS  
 
 ---
 
 ## Slide 10 – Deployment Path
 - GKE Autopilot cluster  
-- Cloud SQL private IP  
+- Cloud SQL (private IP)  
 - Workload Identity (no static keys)  
 - Secret Manager via CSI  
-- TLS via Managed Certificates  
-- NetworkPolicies (default deny)
+- Managed TLS certificates  
+- NetworkPolicies (default deny)  
 
 ---
 
 ## Slide 11 – Security Posture
 - 2FA authentication  
 - RBAC authorization  
-- Secret Manager rotation-ready  
+- Secret rotation readiness  
 - Encryption in transit  
 - Non-root containers  
-- Immutable audit logs
+- Immutable audit logs  
 
 ---
 
 ## Slide 12 – Operational Readiness
-- Incident Response Runbook (EN/ES)  
-- Uninstallation Runbook (EN/ES)  
+- Incident Response Runbook (EN / ES)  
+- Uninstallation Runbook (EN / ES)  
 - Compliance Evidence Index (COMPLIANCE.md)  
-- Auditor-ready documentation
+- Auditor-ready documentation  
 
 ---
 
 ## Slide 13 – Commercial Model
-- Starter: $149/month  
-- Pro: $499/month  
-- Enterprise + White-label: $8,000–$9,000/year  
-- Optional deployment services: $5,000–$15,000
+- Starter: $149 / month  
+- Pro: $499 / month  
+- Enterprise + White-Label: $8,000–$9,000 / year  
+- Optional deployment services: $5,000–$15,000  
 
 ---
 
 ## Slide 14 – Competitive Advantage
 - Compliance enablement, not certification  
-- Evidence generation hub  
-- Marketplace-ready deployment path  
-- White-label partner enablement
+- Evidence-first governance model  
+- Marketplace-ready deployment  
+- Designed for auditor review without regulatory over-claims  
 
 ---
 
 ## Slide 15 – Contact
 **Publisher:** (IO) Olsen Intelligence  
-**Email:** olsencastillo@io-io.net
+**Email:** olsencastillo@io-io.net  
 **Private Offers:** Enterprise onboarding & white-label partnerships  
 **Release:** v1.0.0 – Initial enterprise release
+
